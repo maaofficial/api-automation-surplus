@@ -28,3 +28,12 @@ pip install -r requirements.txt
 ```
 robot test/test.robot
 ```
+
+# Acknowledgements
+Robot Framework: https://robotframework.org
+Requests Library: https://docs.python-requests.org
+Robot Framework Requests Library: https://github.com/bulkan/robotframework-requests
+RPA Framework JSON : https://robocorp.com/docs/libraries/rpa-framework/rpa-json
+
+# Contact
+For any questions or inquiries, please contact mokhamadaulia@gmail.com .
