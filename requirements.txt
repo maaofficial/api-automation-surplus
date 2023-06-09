@@ -1,0 +1,4 @@
+# This file lists the dependencies required for running the framework.
+robotframework == 5.0.1
+robotframework-requests == 0.9.4
+rpaframework == 22.4.0

@@ -1,6 +1,5 @@
 *** Settings ***
 Library             RequestsLibrary
-Library             Collections
 Library             RPA.JSON
 Resource            ../resource/base_url.robot
 
