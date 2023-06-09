@@ -32,7 +32,7 @@ robot test/test.robot
 # Acknowledgements
 - Robot Framework: https://robotframework.org
 - Requests Library: https://docs.python-requests.org
-- Robot Framework Requests Library: https://github.com/bulkan/robotframework-requests
+- Robot Framework Requests Library: https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
 - RPA Framework JSON : https://robocorp.com/docs/libraries/rpa-framework/rpa-json
 
 # Contact
