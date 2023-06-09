@@ -14,6 +14,17 @@ To get started with API automation using Robot Framework, ensure that you have t
 To begin using this framework for API automation, follow the steps below:
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/api-automation-robot-framework.git
+git clone git@github.com:maaofficial/api-automation-surplus.git
 ```
-2. 
+2. Navigate to the project directory:
+```
+cd api-automation-surplus
+```
+3. Install the required dependencies:
+```
+pip install -r requirements.txt
+```
+4. Execute the test cases using Robot Framework:
+```
+robot test/test.robot
+```
