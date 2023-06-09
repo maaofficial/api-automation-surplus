@@ -13,6 +13,7 @@ To get started with API automation using Robot Framework, ensure that you have t
 # Getting Started
 To begin using this framework for API automation, follow the steps below:
 1. Clone the repository to your local machine:
-```git clone https://github.com/your-username/api-automation-robot-framework.git
+```
+git clone https://github.com/your-username/api-automation-robot-framework.git
 ```
 2. 
